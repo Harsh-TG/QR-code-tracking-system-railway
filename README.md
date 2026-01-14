@@ -53,6 +53,12 @@ Alerts Raised to Engineer Dashboard
 
 Integration with UDM/TMS Portal
 
+## 🏗️ System Architecture
+
+The following diagram illustrates the **end-to-end architecture** of the QR Code–Based Railway Track Asset Tracking & AI Inspection System, covering the complete lifecycle from manufacturing to AI-driven predictive maintenance.
+
+![System Architecture](docs/architecture.png)
+
 ##  Key Features
 QR-Based Asset Traceability
 
